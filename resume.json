@@ -1,0 +1,312 @@
+{
+  "basics": {
+    "name": "Hesham Massoud",
+    "label": "Java Software Engineer",
+    "picture": "",
+    "email": "heshamhamdymassoud@gmail.com",
+    "phone": "+49 176 31582798",
+    "website": "",
+    "summary": "Hesham is from Cairo, Egypt. He lived in multiple different countries throughout his life. He earned his bachelors degree in Software Engineering at the German University in Cairo. Directly after that, he earned his Masters degree in the Technical University in Munich (TUM) also in Software Engineering. There, he wrote his thesis about a Mobile Recommender System for Personalized Multi-Modal Route Planning. During the time of studying for his masters degree, he worked as a web developer in multiple companies, as a working student. After that, he started with his first full time job as a Java Backend Software Engineer in commercetools GmbH.",
+    "location": {
+      "address": "Darmstädterstr. 3",
+      "postalCode": "80992",
+      "city": "München",
+      "countryCode": "DE",
+      "region": "Bayern"
+    },
+    "profiles": [
+      {
+        "network": "GitHub",
+        "username": "heshamMassoud",
+        "url": "https://github.com/heshamMassoud"
+      },
+      {
+        "network": "stackoverflow",
+        "username": "hesham-massoud",
+        "url": "https://stackoverflow.com/users/5654504/hesham-massoud"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "heshammassoud",
+        "url": "https://www.linkedin.com/in/heshammassoud/"
+      },
+      {
+        "network": "Instagram",
+        "username": "heshamassoud",
+        "url": "https://www.instagram.com/heshamassoud/"
+      },
+      {
+        "network": "Facebook",
+        "username": "hhmassoud",
+        "url": "https://www.facebook.com/hhmassoud"
+      },
+      {
+        "network": "YouTube",
+        "username": "hhmassoud",
+        "url": "https://www.youtube.com/channel/UCf93QRk1XaqZc4lmSgvLmcQ"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "commercetools GmbH",
+      "position": "Software Engineer",
+      "website": "https://commercetools.com/",
+      "startDate": "2016-10-01",
+      "summary": "Worked as the lead developer and main Implementer of an <a href=\"https://github.com/commercetools/commercetools-sync-java\">open source Java library</a> used for syncing data into our platform from external systems. This library is used by several different client applications and internal applications in the company. The library was written using plain Java (JDK 1.8), utilising most of its new features e.g. CompletionStages, CompletableFutures, Stream API, Optional API, etc.. ",
+      "highlights": [
+        "Quality assurance was also taken into consideration, where library is covered by 94% of unit and integration tests. Pull Request and code reviews are conducted on daily basis.",
+        "Migrated microservices and cron jobs that were deployed on docker cloud platform to a K8s (Kubernetes) cluster on Google Cloud Platform.",
+        "Wrote multiple automation scripts to ease the deployment of services from GitHub to staging/production environments.",
+        "Participated in Java conferences, meetups and internal company hackathons to learn about new updates in the community. (for example JDK 9, New Gradle features, etc..)",
+        "Appointed as an interviewer for new, medium to senior, Java engineers to our team."
+      ]
+    },
+    {
+      "company": "commercetools GmbH",
+      "position": "Software Engineer as a Working Student",
+      "website": "https://commercetools.com/",
+      "startDate": "2015-04-15",
+      "endDate": "2016-05-01",
+      "highlights": [
+        "Mainly working on Spring-based web applications that used our commercetools API for building webshops",
+        "Wrote the entire selenium java-based acceptance tests for a web shop.",
+        "Develop cloud e-commerce systems using several technologies. The customers are the biggest companies in DACH area.",
+        "Help other developers with their development tasks, work in different teams, conduct code reviews and standup meetings."
+      ]
+    },
+    {
+      "company": "Actiworks GmbH",
+      "position": "Software Engineer as a Working Student",
+      "website": "http://www.actiworks.de/",
+      "startDate": "2014-11-1",
+      "endDate": "2015-05-15",
+      "highlights": [
+        "Working as a php and iOS PhoneGap developer to accomplish several tasks in several projects for different clients."
+      ]
+    },
+    {
+      "company": "Smartblue AG",
+      "position": "Software Engineer as a Working Student",
+      "website": "http://www.smartblue.de/",
+      "startDate": "2013-12-1",
+      "endDate": "2014-04-1",
+      "highlights": [
+        "Worked as a php developer to accomplish several tasks for the company’s Photovoltaic monitoring system web application."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Technical University in Munich (TUM)",
+      "area": "Software Engineering",
+      "studyType": "Masters of Science",
+      "startDate": "2011-01-01",
+      "endDate": "2013-01-01",
+      "gpa": "1.69 (German GPA)",
+      "courses": [
+        "Thesis Grade: 1.0 (German GPA)",
+        "Recommender Systems",
+        "Software Engineering Design Patterns",
+        "Distributed Systems",
+        "iOS Praktikum",
+        "ACM International Collegiate Programming Contest (ICPC)"
+      ]
+    },
+    {
+      "institution": "German University in Cairo (GUC)",
+      "area": "Software Engineering",
+      "studyType": "Masters of Science",
+      "startDate": "2008-10-01",
+      "endDate": "2013-06-01",
+      "gpa": "1.71 (German GPA)",
+      "courses": [
+        "Thesis Grade: 1.0 (German GPA)",
+        "Programming languages: Java, C, Haskell, Prolog, C#, Javascript, Actionscript"
+      ]
+    },
+    {
+      "institution": "New English School of Kuwait",
+      "area": "IGCSE",
+      "studyType": "High school degree",
+      "startDate": "2006-09-01",
+      "endDate": "2008-06-01",
+      "gpa": "A",
+      "courses": [
+        "Cambridge International General Certificate of Secondary Education"
+      ]
+    }
+  ],
+  "publications": [
+    {
+      "name": "RouteMe: A Mobile Recommender System for Personalized Multi-Modal Route Planning",
+      "publisher": "",
+      "releaseDate": "2017-07-09",
+      "website": "https://dl.acm.org/citation.cfm?id=3079680",
+      "summary": "Proceedings of the 25th Conference on User Modeling, Adaptation and Personalization Pages 67-75, in Bratislava, Slovakia"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Java (JDK 1.8)",
+      "level": "Master",
+      "keywords": [
+        "CompletionStage",
+        "CompletableFuture",
+        "Stream",
+        "Optional"
+      ]
+    },
+    {
+      "name": "Build Tools",
+      "level": "Advanced",
+      "keywords": [
+        "Gradle",
+        "Maven"
+      ]
+    },
+    {
+      "name": "Continous Integration",
+      "level": "Master",
+      "keywords": [
+        "Travis CI",
+        "circleci",
+        "Jenkins"
+      ]
+    },
+    {
+      "name": "Testing",
+      "level": "Advanced",
+      "keywords": [
+        "Unit tests",
+        "Integration tests",
+        "Acceptance Tests",
+        "JUnit",
+        "Mockito",
+        "Selenium"
+      ]
+    },
+    {
+      "name": "Web Frameworks",
+      "level": "Intermediate",
+      "keywords": [
+        "Spring Framework",
+        "Spring Boot",
+        "Spring MVC",
+        "Play Framework",
+        "nodejs",
+        "codeigniter",
+        "cake php"
+      ]
+    },
+    {
+      "name": "Infrastructure/Ops",
+      "level": "Advanced",
+      "keywords": [
+        "Git",
+        "Bash",
+        "Docker",
+        "Kubernetes",
+        "Google Cloud Platform",
+        "iron.io"
+      ]
+    },
+    {
+      "name": "IDE",
+      "level": "Master",
+      "keywords": [
+        "Intellij",
+        "Eclipse"
+      ]
+    },
+    {
+      "name": "Project Management/Organization",
+      "level": "Master",
+      "keywords": [
+        "Atlassian Confluence",
+        "Atlassian Jira",
+        "Atlassian Stride",
+        "Atlassian HipChat",
+        "Slack"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Arabic",
+      "fluency": "native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Fluent"
+    },
+    {
+      "language": "German",
+      "fluency": "Intermediate"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Running",
+      "keywords": [
+        "sports",
+        "runner"
+      ]
+    },
+    {
+      "name": "Drumming",
+      "keywords": [
+        "music",
+        "drummer"
+      ]
+    },
+    {
+      "name": "Video Editing",
+      "keywords": [
+        "video",
+        "editing"
+      ]
+    }
+  ],
+  "os": [
+    {
+      "organization": "commercetools",
+      "position": "Main Contributer",
+      "website": "https://github.com/commercetools/commercetools-sync-java"
+    },
+    {
+      "organization": "FasterXML",
+      "position": "Reported and contributed fix for a bug in the library",
+      "website": "https://github.com/FasterXML/jackson-databind/issues/2442",
+      "startDate": "2019-09-07"
+    },
+    {
+      "organization": "travis-ci",
+      "position": "Feature to support Markdown for Slack notifications",
+      "website": "https://github.com/travis-ci/travis-tasks/pull/160",
+      "startDate": "2018-10-26"
+    },
+    {
+      "organization": "kubernetes",
+      "position": "Improvement to the documentation of Cronjob resources",
+      "website": "https://github.com/kubernetes/website/pull/9296",
+      "startDate": "2018-07-19"
+    },
+    {
+      "organization": "commercetools",
+      "position": "Main Contributer",
+      "website": "https://github.com/commercetools/k8s-charts",
+      "startDate": "2018-04-1"
+    },
+    {
+      "organization": "commercetools",
+      "position": "Multiple Contributions",
+      "website": "https://github.com/commercetools/commercetools-jvm-sdk"
+    },
+    {
+      "organization": "commercetools",
+      "position": "Code Reviewer",
+      "website": "https://github.com/commercetools/commercetools-paypal-plus-integration"
+    }
+  ]
+}
