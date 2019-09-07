@@ -1,4 +1,4 @@
-# Current Resume for Hesham Massoud
+# Current Resume
 
 The CV is deployed in two places:
 
