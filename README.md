@@ -2,6 +2,7 @@
 
 The CV is deployed in two places:
 
+- [https://heshammassoud.github.io/cv/](https://heshammassoud.github.io/cv/)
 - [https://heshamm.bitbucket.io/public/](https://heshamm.bitbucket.io/public/)
 - [https://heshamm.bitbucket.io/](https://heshamm.bitbucket.io/)
 
