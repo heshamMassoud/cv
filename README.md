@@ -18,21 +18,11 @@ The official [resume-cli](https://github.com/jsonresume/resume-cli) to run the d
 Go ahead and install it:
 
 ```
-sudo npm install -g resume-cli
+npm install -g resume-cli
 ```
-### Install and serve theme
+### Serve theme
 
-Clone the repository
-
-```
-npm install jsonresume-theme-stackoverflow
-```
-
-then change directory: 
-
-`cd node_modules/jsonresume-theme-stackoverflow/`
-
-And simply run:
+simply run:
 
 ```
 resume serve
