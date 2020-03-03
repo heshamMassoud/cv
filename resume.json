@@ -1,18 +1,17 @@
 {
   "basics": {
     "name": "Hesham Massoud",
-    "label": "Java Software Engineer",
+    "label": "Backend Engineer",
     "picture": "",
     "email": "heshamhamdymassoud@gmail.com",
     "phone": "+49 176 31582798",
     "website": "",
-    "summary": "Hesham is from Cairo, Egypt. He lived in multiple different countries throughout his life. He earned his bachelors degree in Software Engineering at the German University in Cairo. Directly after that, he earned his Masters degree in the Technical University in Munich (TUM) also in Software Engineering. There, he wrote his thesis about a Mobile Recommender System for Personalized Multi-Modal Route Planning. During the time of studying for his masters degree, he worked as a web developer in multiple companies, as a working student. After that, he started with his first full time job as a Java Backend Software Engineer in commercetools GmbH.",
+    "summary": "Hesham lived in multiple different cities throughout his life. He earned his bachelors degree in Software Engineering at the German University in Cairo. Directly after that, he earned his Masters degree in the Technical University in Munich (TUM) also in Software Engineering. There, he wrote his thesis about a Mobile Recommender System for Personalized Multi-Modal Route Planning. During the time of studying for his masters degree, he worked as a web developer in multiple companies, as a working student. After that, he started with his first full time job as a Java Backend Software Engineer in commercetools GmbH where he worked there for almost 5 years and helped the company achieve X. Then he moved to Berlin to pursue his dream job, a Backend Engineer at SoundCloud.",
     "location": {
       "address": "Darmstädterstr. 3",
       "postalCode": "80992",
-      "city": "München",
-      "countryCode": "DE",
-      "region": "Bayern"
+      "city": "Berlin",
+      "countryCode": "DE"
     },
     "profiles": [
       {
@@ -21,7 +20,7 @@
         "url": "https://github.com/heshamMassoud"
       },
       {
-        "network": "stackoverflow",
+        "network": "stack overflow",
         "username": "hesham-massoud",
         "url": "https://stackoverflow.com/users/5654504/hesham-massoud"
       },
@@ -44,15 +43,31 @@
         "network": "YouTube",
         "username": "hhmassoud",
         "url": "https://www.youtube.com/channel/UCf93QRk1XaqZc4lmSgvLmcQ"
+      },
+      {
+        "network": "SoundCloud",
+        "username": "heshamassoud",
+        "url": "https://soundcloud.com/heshamassoud"
       }
     ]
   },
   "work": [
     {
+      "company": "SoundCloud",
+      "position": "Backend Engineer II",
+      "website": "https://soundcloud.com/",
+      "startDate": "2020-02-01",
+      "summary": "Backend Engineer in the Creator Engagement Team",
+      "highlights": [
+        "Migration of public-api usage to internal microservices."
+      ]
+    },
+    {
       "company": "commercetools GmbH",
       "position": "Software Engineer",
       "website": "https://commercetools.com/",
       "startDate": "2016-10-01",
+      "endDate": "2020-01-31",
       "summary": "Worked as the lead developer and main Implementer of an <a href=\"https://github.com/commercetools/commercetools-sync-java\">open source Java library</a> used for syncing data into our platform from external systems. This library is used by several different client applications and internal applications in the company. The library was written using plain Java (JDK 1.8), utilising most of its new features e.g. CompletionStages, CompletableFutures, Stream API, Optional API, etc.. ",
       "highlights": [
         "Quality assurance was also taken into consideration, where library is covered by 94% of unit and integration tests. Pull Request and code reviews are conducted on daily basis.",
@@ -228,6 +243,30 @@
         "Atlassian Stride",
         "Atlassian HipChat",
         "Slack"
+      ]
+    },
+    {
+      "name": "Scala",
+      "level": "Beginner",
+      "keywords": [
+        "Sbt",
+        "Cats"
+      ]
+    },
+    {
+      "name": "Ruby",
+      "level": "Beginner",
+      "keywords": [
+        "Rails"
+      ]
+    },
+    {
+      "name": "Prometheus",
+      "level": "Beginner",
+      "keywords": [
+        "Grafana",
+        "PromQL",
+        "AlertManager"
       ]
     }
   ],
