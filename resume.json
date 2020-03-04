@@ -6,10 +6,10 @@
     "email": "heshamhamdymassoud@gmail.com",
     "phone": "+49 176 31582798",
     "website": "",
-    "summary": "Hesham lived in multiple different cities throughout his life. He earned his bachelors degree in Software Engineering at the German University in Cairo. Directly after that, he earned his Masters degree in the Technical University in Munich (TUM) also in Software Engineering. There, he wrote his thesis about a Mobile Recommender System for Personalized Multi-Modal Route Planning. During the time of studying for his masters degree, he worked as a web developer in multiple companies, as a working student. After that, he started with his first full time job as a Java Backend Software Engineer in commercetools GmbH where he worked there for almost 5 years and helped the company achieve X. Then he moved to Berlin to pursue his dream job, a Backend Engineer at SoundCloud.",
+    "summary": "Hesham lived in multiple different cities throughout his life. He earned his bachelors degree in Software Engineering at the German University in Cairo. Directly after that, he earned his Masters degree in the Technical University in Munich (TUM) also in Software Engineering. There, he wrote his thesis about a Mobile Recommender System for Personalized Multi-Modal Route Planning. During the time of studying for his masters degree, he worked as a web developer in multiple companies, as a working student. After that, he started with his first full time job as a Java Backend Software Engineer in commercetools GmbH where he worked there for almost 5 years. Then he moved to Berlin to pursue his dream job, a Backend Engineer at SoundCloud.",
     "location": {
-      "address": "Darmstädterstr. 3",
-      "postalCode": "80992",
+      "address": "Dirschauer Straße 10",
+      "postalCode": "10245",
       "city": "Berlin",
       "countryCode": "DE"
     },
@@ -59,7 +59,9 @@
       "startDate": "2020-02-01",
       "summary": "Backend Engineer in the Creator Engagement Team",
       "highlights": [
-        "Migration of public-api usage to internal microservices."
+        "Migration of public API usage on the main website to internal microservices.",
+        "Bug bashing sessions",
+        "Participation in company-wide Backend Collective"
       ]
     },
     {
