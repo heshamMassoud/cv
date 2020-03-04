@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Hesham Massoud",
-    "label": "Backend Engineer",
+    "label": "Backend Engineer at SoundCloud",
     "picture": "",
     "email": "heshamhamdymassoud@gmail.com",
     "phone": "+49 176 31582798",
@@ -60,6 +60,7 @@
       "summary": "Backend Engineer in the Creator Engagement Team",
       "highlights": [
         "Migration of public API usage on the main website to internal microservices.",
+        "Write complete features that would be used by millions of users.",
         "Bug bashing sessions",
         "Participation in company-wide Backend Collective"
       ]
