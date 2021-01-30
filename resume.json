@@ -1,14 +1,14 @@
 {
   "basics": {
     "name": "Hesham Massoud",
-    "label": "Backend Engineer at SoundCloud",
+    "label": "Backend Engineer level II at SoundCloud",
     "picture": "",
     "email": "heshamhamdymassoud@gmail.com",
     "phone": "+49 176 31582798",
     "website": "",
     "summary": "Hesham lived in multiple different cities throughout his life. He earned his bachelors degree in Software Engineering at the German University in Cairo. Directly after that, he earned his Masters degree in the Technical University in Munich (TUM) also in Software Engineering. There, he wrote his thesis about a Mobile Recommender System for Personalized Multi-Modal Route Planning. During the time of studying for his masters degree, he worked as a web developer in multiple companies, as a working student. After that, he started with his first full time job as a Java Backend Software Engineer in commercetools GmbH where he worked there for almost 5 years. Then he moved to Berlin to pursue his dream job, a Backend Engineer at SoundCloud.",
     "location": {
-      "address": "Dirschauer Straße 10",
+      "address": "Lehmbruckstr. 15",
       "postalCode": "10245",
       "city": "Berlin",
       "countryCode": "DE"
@@ -59,8 +59,12 @@
       "startDate": "2020-02-01",
       "summary": "Backend Engineer in the Creator Engagement Team",
       "highlights": [
-        "Migration of public API usage on the main website to internal microservices.",
-        "Write complete features that would be used by millions of users.",
+        "Point person for the Notification Center project which was cross-functional team effort. The product is monthly used by millions of users.",
+        "Active member in an On-Call Rotation in SoundCloud to make sure systems are up and running 247",
+        "Extraction of the Comments system from the monolith to microservices.",
+        "Upgrading Cassandra nodes used for the Counting systems on SoundCloud - one of the most complex systems.",
+        "Fixing critical user-facing bugs which affects millions of users every month",
+        "Migration of the public API implementation from the monolith to microservices.",
         "Bug bashing sessions",
         "Participation in company-wide Backend Collective"
       ]
@@ -206,7 +210,7 @@
     },
     {
       "name": "Web Frameworks",
-      "level": "Intermediate",
+      "level": "Advanced",
       "keywords": [
         "Spring Framework",
         "Spring Boot",
@@ -250,7 +254,7 @@
     },
     {
       "name": "Scala",
-      "level": "Beginner",
+      "level": "Intermediate",
       "keywords": [
         "Sbt",
         "Cats"
@@ -265,7 +269,7 @@
     },
     {
       "name": "Prometheus",
-      "level": "Beginner",
+      "level": "Intermediate",
       "keywords": [
         "Grafana",
         "PromQL",
